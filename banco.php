@@ -45,7 +45,7 @@ do {
             break;
 
         case 4:
-            echo "Adeus\n";
+            echo "Tchau\n";
             break;
 
         default:
